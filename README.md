@@ -1,2 +1,3 @@
 # crud-asp.net-mongoDB
-CRUD de aprendizado do ASP.NET Core e MongoDB 
+CRUD (API) de aprendizado do ASP.NET Core e MongoDB.
+Utilizando MongoDB local.
